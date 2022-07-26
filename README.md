@@ -36,8 +36,6 @@ In doing so:
 
 - A library/component that packages the import service and the interface for accessing the geolocation data;
 - A REST API application that uses the aforementioned library
-- Deploy the project on a cloud platform of your choice (e.g. [Gigalixir](https://www.gigalixir.com/), [Heroku](https://www.heroku.com/), [Fly.io](https://fly.io/), [Digital Ocean](https://www.digitalocean.com/), AWS, Google Cloud or Azure).
-- Import part of the sample data in the deployed application (according to the could platform limits).
 
 #### Bonus
 
@@ -45,6 +43,7 @@ These items can add extra points to your evaluation, but you are not expected to
 
 - The API application is Dockerised.
 - The API application is deployed as a container.
+- Deploy the project on a cloud platform of your choice (e.g. [Gigalixir](https://www.gigalixir.com/), [Heroku](https://www.heroku.com/), [Fly.io](https://fly.io/), [Digital Ocean](https://www.digitalocean.com/), AWS, Google Cloud or Azure). Import part of the sample data in the deployed application (according to the could platform limits).
 
 ### Notes
 
