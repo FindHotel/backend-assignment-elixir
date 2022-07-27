@@ -35,7 +35,7 @@ In doing so:
 ### Expected outcome and shipping:
 
 - A library/component that packages the import service and the interface for accessing the geolocation data;
-- A REST API application that uses the aforementioned library
+- A REST API application that uses the aforementioned library.
 
 #### Bonus
 
